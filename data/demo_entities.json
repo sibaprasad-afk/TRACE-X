@@ -1,0 +1,109 @@
+[
+  {
+    "id": "DEMO_EXCHANGE_ALPHA",
+    "name": "Alpha Global Exchange",
+    "type": "exchange",
+    "category": "VASP",
+    "jurisdiction": "Switzerland",
+    "riskLevel": "LOW",
+    "verified": true,
+    "confidence": "Confirmed",
+    "addresses": [
+      "0x1111111254fb6c44bac0bed2854e76f90643097d",
+      "0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be",
+      "0x28c6c06298d514db089934071355e5743bf21d60"
+    ],
+    "volumeObserved": "14,820.5 ETH",
+    "firstObserved": "2024-01-15T08:00:00Z",
+    "lastObserved": "2026-09-10T21:40:00Z",
+    "notes": "Compliant centralized exchange with strict KYC/AML controls."
+  },
+  {
+    "id": "DEMO_EXCHANGE_BETA",
+    "name": "Beta Prime Liquidity",
+    "type": "exchange",
+    "category": "VASP",
+    "jurisdiction": "Singapore",
+    "riskLevel": "LOW",
+    "verified": true,
+    "confidence": "Confirmed",
+    "addresses": [
+      "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "0x70faa28a6b8d6829a4b1e649d26ec9a2a39ba413"
+    ],
+    "volumeObserved": "9,450.2 ETH",
+    "firstObserved": "2024-03-20T10:15:00Z",
+    "lastObserved": "2026-09-10T19:30:00Z",
+    "notes": "Tier-1 institutional exchange deposit cluster."
+  },
+  {
+    "id": "DEMO_BRIDGE_ALPHA",
+    "name": "Nexus Omnichain Portal",
+    "type": "bridge",
+    "category": "Cross-Chain Protocol",
+    "jurisdiction": "Decentralized",
+    "riskLevel": "MEDIUM",
+    "verified": true,
+    "confidence": "High Confidence",
+    "addresses": [
+      "0x40ec5b33f54e08337052b7eee04b23333addf4e1",
+      "0xa0c68c638235ee32657e8f720a23cec1bfc77c77"
+    ],
+    "volumeObserved": "32,100.0 ETH",
+    "firstObserved": "2023-11-01T04:22:00Z",
+    "lastObserved": "2026-09-10T22:10:00Z",
+    "notes": "Decentralized token bridge linking Ethereum, Polygon, and BNB Chain."
+  },
+  {
+    "id": "DEMO_MIXER_SIGMA",
+    "name": "Sigma Privacy Pool",
+    "type": "mixer",
+    "category": "Anonymizing Service",
+    "jurisdiction": "Sanctioned/Unregistered",
+    "riskLevel": "CRITICAL",
+    "verified": false,
+    "confidence": "High Confidence",
+    "addresses": [
+      "0x8888888888882e3b2e3b2e3b2e3b2e3b2e3b2e3b",
+      "0x9999999999996f2a6f2a6f2a6f2a6f2a6f2a6f2a"
+    ],
+    "volumeObserved": "5,410.8 ETH",
+    "firstObserved": "2025-02-14T11:00:00Z",
+    "lastObserved": "2026-09-10T20:00:00Z",
+    "notes": "Non-custodial cryptographic tumbling contract flagged for high-risk illicit mixing."
+  },
+  {
+    "id": "DEMO_DEFI_LENDING",
+    "name": "Aetheria Vault Protocol",
+    "type": "protocol",
+    "category": "DeFi",
+    "jurisdiction": "Decentralized",
+    "riskLevel": "LOW",
+    "verified": true,
+    "confidence": "Confirmed",
+    "addresses": [
+      "0x7d2768de32b0b80b7a3454c06bdac94a69ddc7a9"
+    ],
+    "volumeObserved": "84,000.0 ETH",
+    "firstObserved": "2023-08-01T00:00:00Z",
+    "lastObserved": "2026-09-10T21:00:00Z",
+    "notes": "Audited liquidity pool and algorithmic lending protocol."
+  },
+  {
+    "id": "DEMO_MERCHANT_OMEGA",
+    "name": "Omega Gateway Solutions",
+    "type": "merchant",
+    "category": "Payment Gateway",
+    "jurisdiction": "United Kingdom",
+    "riskLevel": "LOW",
+    "verified": true,
+    "confidence": "Confirmed",
+    "addresses": [
+      "0x555555555555a1b2c3d4e5f6a1b2c3d4e5f6a1b2"
+    ],
+    "volumeObserved": "2,100.4 ETH",
+    "firstObserved": "2024-05-10T09:00:00Z",
+    "lastObserved": "2026-09-09T18:00:00Z",
+    "notes": "Licensed e-commerce crypto checkout processing terminal."
+  }
+]

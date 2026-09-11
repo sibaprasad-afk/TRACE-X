@@ -1,0 +1,6 @@
+{
+  "name": "TRACE-X",
+  "description": "Enterprise blockchain intelligence and cryptocurrency fraud investigation platform. Trace fund flows, detect financial fraud patterns, and generate forensic dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
